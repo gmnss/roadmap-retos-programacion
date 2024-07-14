@@ -9,3 +9,25 @@
  *   del lenguaje (cadenas de texto, enteros, booleanos...).
  * - Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"
 """
+
+# Python
+# https://www.python.org/
+
+# Comentario de una línea
+
+"""
+Comentario
+en
+mas
+líneas
+"""
+
+'''
+Esto es
+otro comentario
+en varias líneas
+'''
+
+my_variable = "Valor de mi variable"
+
+MY_CONSTANT = "Mi constante"
