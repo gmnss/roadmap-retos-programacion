@@ -17,8 +17,7 @@
 
 """
 Comentario
-en
-mas
+en mas
 líneas
 """
 
@@ -31,3 +30,10 @@ en varias líneas
 my_variable = "Valor de mi variable"
 
 MY_CONSTANT = "Mi constante"
+int = 1
+float = 0.1
+string = "palabras"
+boolean = True
+
+my_lenguaje = "Python"
+print(f"¡Hola, {my_lenguaje}!")
